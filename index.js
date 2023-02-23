@@ -52,7 +52,7 @@ inquirer
     const svg = new Svg()
     svg.setText(text, textColor)
     svg.setShape(shape)
-    return writeFile("./example/logo.svg", svg.render())
+    return writeFile("./logo-page/logo.svg", svg.render())
 })
 .then(()=> console.log("Generated logo.svg"))
 .catch(err => console.log(err));
