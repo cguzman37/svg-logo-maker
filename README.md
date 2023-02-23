@@ -12,9 +12,11 @@ AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
-![This is an image](/example/logo.svg)
+![This is an image](/logo-page/logo.svg)
 
 # Walkthrough link:
+
+https://www.kapwing.com/videos/63f6f62014228d0063165aec
 
 # Acknowledgements:
 
